@@ -8,7 +8,7 @@ public class MousePort : MonoBehaviour
 
     private void Awake()
     {
-         _transform = transform;
+        _transform = transform;
         _firstZ = transform.position.z;
     }
 
