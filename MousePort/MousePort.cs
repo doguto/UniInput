@@ -39,8 +39,3 @@ public class MousePort : MonoBehaviour
     }
 }
 
-
-public interface IClicked
-{
-    void OnClicked();
-}
